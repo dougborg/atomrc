@@ -1,0 +1,26 @@
+{
+  "name": "ssh-config",
+  "version": "0.10.0",
+  "description": "ssh config syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lalyos/ssh-config"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# ssh-config package\n\nA short description of your package.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/lalyos/ssh-config/issues"
+  },
+  "homepage": "https://github.com/lalyos/ssh-config",
+  "_id": "ssh-config@0.10.0",
+  "dist": {
+    "shasum": "c8bccf02ab23a24ff7a4c5418d7400ca823eee4f"
+  },
+  "_resolved": "/private/var/folders/f7/lk2my0r96ld_jdfppy82c41sryf8_l/T/d-11498-82881-1s490id/package.tgz",
+  "_from": "/private/var/folders/f7/lk2my0r96ld_jdfppy82c41sryf8_l/T/d-11498-82881-1s490id/package.tgz"
+}
