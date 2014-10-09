@@ -13,3 +13,4 @@
   'invisibles': {}
   'fontFamily': 'Source Code Pro'
   'fontSize': 14
+'vim-surround': {}
