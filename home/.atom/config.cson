@@ -1,7 +1,15 @@
-'editor':
-  'fontSize': 16
+'exception-reporting':
+  'userId': '87d2c4ea-a888-ca6f-ac0c-bcfdf6d5ce66'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '685e78e8450b41135e0c0a3130ef553c35ba2002'
 'core':
   'themes': [
-    'atom-dark-ui'
-    'atom-dark-syntax'
+    'solarized-dark-apparent-ui-successor'
+    'solarized-dark-syntax'
   ]
+'editor':
+  'invisibles': {}
+  'fontFamily': 'Source Code Pro'
+  'fontSize': 14
