@@ -1,0 +1,27 @@
+{
+  "name": "language-bats",
+  "main": "./lib/language-bats",
+  "version": "0.1.0",
+  "description": "Grammar for the Bash Automated Test System (BATS)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkamenik/language-bats"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# language-bats package\n\nAdds [Bash Automated Test System](https://github.com/sstephenson/bats) grammar to [Atom](http://atom.io).  It is based off of the [Shell Script Language](https://github.com/atom/language-shellscript) package.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jkamenik/language-bats/issues"
+  },
+  "homepage": "https://github.com/jkamenik/language-bats",
+  "_id": "language-bats@0.1.0",
+  "dist": {
+    "shasum": "6d200d443c656c3e152679edf6b3e3b9d0df27cb"
+  },
+  "_resolved": "/private/var/folders/f7/lk2my0r96ld_jdfppy82c41sryf8_l/T/d-114911-2378-5l8ntp/package.tgz",
+  "_from": "/private/var/folders/f7/lk2my0r96ld_jdfppy82c41sryf8_l/T/d-114911-2378-5l8ntp/package.tgz"
+}

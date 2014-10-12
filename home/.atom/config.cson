@@ -10,7 +10,6 @@
     'solarized-dark-syntax'
   ]
 'editor':
-  'invisibles': {}
-  'fontFamily': 'Source Code Pro'
+  'fontFamily': 'Source Code Pro for Powerline'
   'fontSize': 14
-'vim-surround': {}
+  'invisibles': {}
