@@ -1,16 +1,27 @@
-'exception-reporting':
-  'userId': '87d2c4ea-a888-ca6f-ac0c-bcfdf6d5ce66'
-'welcome':
-  'showOnStartup': false
-'metrics':
-  'userId': '685e78e8450b41135e0c0a3130ef553c35ba2002'
-'core':
-  'themes': [
-    'solarized-dark-apparent-ui-successor'
-    'solarized-dark-syntax'
-  ]
-'editor':
-  'fontFamily': 'Source Code Pro for Powerline'
-  'fontSize': 14
-  'invisibles': {}
-'minimap': {}
+'global':
+  'exception-reporting':
+    'userId': '87d2c4ea-a888-ca6f-ac0c-bcfdf6d5ce66'
+  'welcome':
+    'showOnStartup': false
+  'metrics':
+    'userId': '685e78e8450b41135e0c0a3130ef553c35ba2002'
+  'core':
+    'themes': [
+      'solarized-dark-apparent-ui-successor'
+      'solarized-dark-syntax'
+    ]
+    'disabledPackages': [
+      'tabs'
+      'tree-view'
+    ]
+  'editor':
+    'fontFamily': 'Source Code Pro for Powerline'
+    'fontSize': 14
+  'linter-shellcheck':
+    'shellcheckExecutablePath': '/usr/local/bin'
+  'tabs':
+    'showIcons': true
+  'tree-view':
+    'hideVcsIgnoredFiles': false
+    'hideIgnoredNames': false
+    'showOnRightSide': false
