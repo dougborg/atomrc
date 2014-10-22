@@ -17,8 +17,11 @@
   'editor':
     'fontFamily': 'Source Code Pro for Powerline'
     'fontSize': 14
+    'invisibles': {}
   'linter-shellcheck':
-    'shellcheckExecutablePath': '/usr/local/bin'
+    'shellcheckExecutablePath': '/usr/local/bin/shellcheck'
+  'linter-puppet-lint':
+    'puppetLintExecutablePath': '/usr/bin/puppet-lint'
   'tabs':
     'showIcons': true
   'tree-view':
