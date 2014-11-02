@@ -17,7 +17,6 @@
   'editor':
     'fontFamily': 'Source Code Pro for Powerline'
     'fontSize': 14
-    'invisibles': {}
   'linter-shellcheck':
     'shellcheckExecutablePath': '/usr/local/bin/shellcheck'
   'linter-puppet-lint':
@@ -28,3 +27,5 @@
     'hideVcsIgnoredFiles': false
     'hideIgnoredNames': false
     'showOnRightSide': false
+  'atom-beautify':
+    '_analyticsUserId': '096f4ece-919e-45af-9c29-a5c5a39ef5e2'
